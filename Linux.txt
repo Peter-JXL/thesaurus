@@ -1,0 +1,12 @@
+
+;Linux
+lin=1,Linux
+
+
+; 虚拟化技术
+doc=1,Docker
+
+
+dev=1,Devops
+
+

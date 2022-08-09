@@ -1,0 +1,11 @@
+
+;DB
+sql=1,SQL
+jdb=1,JDBC
+mys=1,MySQL
+myc=1,MyCat
+nav=1,Navicat
+myb=1,Mybatis
+hi=1,Hibernate
+sqli=1,SQLite
+

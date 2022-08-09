@@ -1,0 +1,64 @@
+;Java
+jav=1,Java
+
+;JavaWeb
+jsp=1,JSP
+tom=1,Tomcat
+ngi=1,Nginx
+ten=1,Tengine
+ser=1,Servlet
+ses=1,Session
+javaw=1,JavaWeb
+
+;Framework
+ssm=2,SSM
+ssh=2,SSH
+str=1,Struts
+log=1,Log4j
+slf=1,SLF4J
+lom=1,Lombok
+swa=1,Swagger
+juni=1,Junit
+;Spring
+ioc=1,IoC
+aop=1,AOP
+spr=1,Spring
+sprb=1,SpringBoot
+sprb=2,Spring Boot
+sprm=1,SpringMVC
+sprm=2,Spring MVC
+sprc=1,SpringCloud
+sprc=2,Spring Cloud
+thy=1,Thymeleaf
+
+
+;IDEA
+idea=1,IDEA
+ide=2,IDEA
+pow=1,PowerDesigner
+win=1,Windows
+
+
+;Maven
+red=1,Redis
+mav=1,Maven
+pom=1,pom.xml
+res=1,resources
+nex=1,Nexus
+
+
+;Search Engines
+lu=1,Lucene 
+es=2,Elasticsearch
+ki=1,Kibana
+sol=1,Solr
+
+;Security
+shr=1,Shiro
+sprs=1,Spring Security
+
+;Message queue
+mq=1,MQ
+am=1,AMQP
+ra=1,RabbitMQ
+act=1,ActiveMQ
