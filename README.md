@@ -14,31 +14,55 @@
 
 
 
-对于搜狗系列的输入法：
+### 搜狗系列输入法
+
+  官网：https://shurufa.sogou.com  ，全平台支持
+
+![搜狗输入法导入词库](assets/搜狗输入法导入词库.png)
 
 
 
 
 
-对于手心输入法：
+![](assets/搜狗输入法导入词库2.png)
 
 
 
 
 
-对于百度输入法：
+
+
+### 手心输入法
+
+  官网http://www.xinshuru.com/，全平台支持
+
+![手心输入法导入词库](assets/手心输入法导入词库.png)
 
 
 
-讯飞输入法：
+对于五笔输入法：
+
+![](assets/五笔输入法导入词库.png)
 
 
 
-微软输入法：
+![](assets/五笔输入法导入词库2.png)
 
 
 
-对于手机端的输入法：
+### 百度输入法
+
+
+
+### 讯飞输入法
+
+
+
+### 微软输入法
+
+
+
+### 对于手机端的输入法
 
 
 
@@ -73,9 +97,23 @@
 
 
 
+本仓库地址：
+
+Gitee：[Thesaurus ](https://gitee.com/peterjxl/thesaurus)
+
+GitHub： [Thesaurus](https://github.com/Peter-JXL/thesaurus)
+
+
+
 
 
 ## 未来
 
 可以考虑和咨询一些输入法厂商，使其可以直接在输入法词库里导入本项目中的词库
+
+
+
+
+
+
 

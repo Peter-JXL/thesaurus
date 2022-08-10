@@ -1,2 +1,3 @@
 ;Pyhton
 pyt=1,Python
+pyc=1,Pycharm
