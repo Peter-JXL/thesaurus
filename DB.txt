@@ -8,4 +8,5 @@ nav=1,Navicat
 myb=1,Mybatis
 hi=1,Hibernate
 sqli=1,SQLite
-
+ora=1,Oracle
+pls=1,PLSQL

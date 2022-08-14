@@ -1,0 +1,4 @@
+;Git
+gi=1,Git
+gith=1,GitHub
+gite=1,Gitee

@@ -1,0 +1,6 @@
+;常用网站
+lh=1,localhost:
+lh=2,127.0.0.1:
+res=2,Restful
+
+

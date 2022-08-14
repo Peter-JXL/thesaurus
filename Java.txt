@@ -5,6 +5,7 @@ jav=1,Java
 jsp=1,JSP
 tom=1,Tomcat
 ngi=1,Nginx
+apa=1,Apache
 ten=1,Tengine
 ser=1,Servlet
 ses=1,Session

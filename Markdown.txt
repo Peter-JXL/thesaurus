@@ -1,0 +1,5 @@
+;Markdown
+mark=1,Markdown
+md=1,.md
+ass=1,assets
+typ=1,Typora
