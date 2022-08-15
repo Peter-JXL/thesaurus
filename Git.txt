@@ -1,4 +1,9 @@
 ;Git
 gi=1,Git
+git=1,Git
 gith=1,GitHub
+github=1,GitHub
 gite=1,Gitee
+gitee=1,Gitee
+gitl=1,GitLab
+gitLab=1,GitLab
