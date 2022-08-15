@@ -6,3 +6,5 @@ fal=1,false
 fal=2,False
 tru=2,True
 tru=1,true
+
+asc=1,ASCII
