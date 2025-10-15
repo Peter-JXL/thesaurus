@@ -1,0 +1,164 @@
+
+hello=1,HelloWorld
+win=1,Windows
+mac=1,macOS
+
+; true/false
+fal=1,false
+fal=2,False
+tru=1,true
+tru=2,True
+
+; 字符编码
+asc=1,ASCII
+ansi=1,ANSI
+uni=1,Unicode
+utf=2,UTF8
+
+
+; Markdown
+typ=1,Typora
+mark=1,Markdown
+md=1,.md
+ass=1,assets
+lat=1,LaTex
+rssh=1,RSSHub
+fol=1,Follow
+
+; Git
+gi=1,Git
+cvs=1,CVS
+svn=1,SVN
+git=1,Git
+gith=1,GitHub
+github=1,GitHub
+gite=1,Gitee
+gitee=1,Gitee
+gitl=1,GitLab
+gitLab=1,GitLab
+giti=1,.gitignore
+
+; 计算机网络
+http=1,HTTP
+http=2,HTTPS
+ipv=1,IPv4
+ipv=2,IPv6
+lh=1,localhost:
+lh=2,127.0.0.1:
+res=2,Restful
+
+; 数据库
+sql=1,SQL
+nos=1,NoSQL
+jdb=1,JDBC
+jdb=2,JdbcTemplate
+dru=1,Druid
+hika=1,HikariDataSource
+mys=1,MySQL
+myc=1,MyCat
+nav=1,Navicat
+myb=1,Mybatis
+myb=2,MybatisPlus
+iba=1,iBatis
+hib=1,Hibernate
+sqli=1,SQLite
+ora=1,Oracle
+pls=1,PLSQL
+cru=1,CRUD
+liq=1,Liquibase
+
+; Pyhton
+pyt=1,Python
+pyc=1,Pycharm
+
+; Ruby
+rub=1,Ruby
+
+
+; Linux
+lin=1,Linux
+
+; 运维
+doc=1,Docker
+dev=1,Devops
+vm=1,VMWare
+virb=1,VirtualBox
+kub=1,Kubernetes
+k=8,K8s
+
+; Java
+jav=1,Java
+
+; JavaWeb
+jsp=1,JSP
+tom=1,Tomcat
+ngi=1,Nginx
+apa=1,Apache
+ten=1,Tengine
+ser=1,Servlet
+ses=1,Session
+javaw=1,JavaWeb
+
+; Java 框架
+ssm=2,SSM
+ssh=2,SSH
+str=1,Struts
+log=1,Log4j
+slf=1,SLF4J
+lom=1,Lombok
+swa=1,Swagger
+juni=1,Junit
+
+; Spring 相关
+ioc=1,IoC
+aop=1,AOP
+spr=1,Spring
+sprb=1,SpringBoot
+sprb=2,Spring Boot
+sprm=1,SpringMVC
+sprm=2,Spring MVC
+sprc=1,SpringCloud
+sprc=2,Spring Cloud
+thy=1,Thymeleaf
+
+
+; IDEA
+idea=1,IDEA
+ide=2,IDEA
+pow=1,PowerDesigner
+win=1,Windows
+
+
+; Java 构建
+red=1,Redis
+mav=1,Maven
+pom=1,pom.xml
+res=1,resources
+nex=1,Nexus
+gra=1,Gradle
+
+; 搜索引擎技术
+lu=1,Lucene 
+es=2,Elasticsearch
+ki=1,Kibana
+sol=1,Solr
+
+; Java 安全框架
+shr=1,Shiro
+sprs=1,Spring Security
+
+; Java 消息队列
+mq=1,MQ
+am=1,AMQP
+ra=1,RabbitMQ
+act=1,ActiveMQ
+kafk=1,Kafka
+kaf=2,Kafka
+
+; RPC
+rpc=1,RPC
+dub=1,Dubbo
+
+; 人工智能
+gpt=1,ChatGPT
+ds=2,DeepSeek

@@ -1,2 +1,0 @@
-;Ruby
-rub=1,Ruby
